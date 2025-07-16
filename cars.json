@@ -11,7 +11,7 @@
       },
       "price": 120.000,
       "currency": "€", 
-      "image": "C:\\Users\\Zbook\\my_favorite_Cars\\bmw x7.jfif"
+      "image": "./images/bmw x7.jfif"
     },
     {
       "id": 2,
