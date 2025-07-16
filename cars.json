@@ -9,6 +9,8 @@
         "interior": "beige",
         "car": "black"
       },
+      "price": 120.000,
+      "currency": "€", 
       "image": "C:\\Users\\Zbook\\my_favorite_Cars\\bmw x7.jfif"
     },
     {
@@ -18,8 +20,10 @@
       "year": "2025",
       "color": {
         "interior": "red",
-        "car": "white"
+        "car": "white";
       },
+      "price": 145.000,
+      "currency": "€", 
       "image": "C:\\Users\\Zbook\\my_favorite_Cars\\mercedes-s-klasse-2025.jpg"
     },
     {
@@ -31,6 +35,8 @@
         "interior": "orange",
         "car": "blue"
       },
+       "price": 128.000,
+      "currency": "€", 
       "image": "C:\\Users\\Zbook\\my_favorite_Cars\\audi rs7.jfif"
     },
     {
@@ -42,6 +48,8 @@
         "interior": "red",
         "car": "golden"
       },
+       "price": 266.000,
+      "currency": "€", 
       "image": "C:\\Users\\Zbook\\my_favorite_Cars\\ferrari sf90.jfif"
     }
   ]
